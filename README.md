@@ -9,7 +9,7 @@ File terdiri dari :
 * optional Full Coverage Testing
 * optional Real World Scenario
 
-#Final Exam on JavaScript Understanding in Dicoding Class
+# Final Exam on JavaScript Understanding in Dicoding Class
 The file consists of:
 * Writing Comments
 * Code Style
